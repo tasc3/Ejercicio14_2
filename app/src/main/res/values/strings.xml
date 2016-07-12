@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Grabar datos</string>
+    <string name="fecha">Fecha</string>
+    <string name="grab">Grabar</string>
+    <string name="recu">Recuperar</string>
+</resources>
